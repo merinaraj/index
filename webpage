@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ body { 
+   background-color: #ecf9f2;  
+min-height: 100vh;
+ }
+.flex-container {
+	display:flex;
+		justify-content:space-around;
+	background-color: white;
+	padding: 10px;
+	margin: 40px;
+		}
+</style>
+</head>
+<body>
+<h1> These are my pictures..</h1>
+<div class="flex-container">
+ <div style="text-align: center;">
+ 	 <h2 style="margin-bottom: 10px;">With my friend</h2>
+   <img src="https://github.com/merinaraj/index/blob/main/20240630_152210.jpg?raw=true width="200" height="450">
+
+<div style="text-align: center;">
+ 	 <h2 style="margin-bottom: 10px;">At the lake</h2>
+	 <img src="https://github.com/merinaraj/index/blob/main/20240406_155428.jpg?raw=true width="200" height="450">
+
+<div style="text-align: center;">
+ 	 <h2 style="margin-bottom: 10px;">Relaxing</h2>
+  <img src="https://github.com/merinaraj/index/blob/main/Sunny camping.jpg?raw=true width="200" height="450">
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
